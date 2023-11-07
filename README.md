@@ -2,4 +2,5 @@
 
 # About
 
-The Grafana LGTM stack
+Grafana Labs’ opinionated observability stack which includes: Loki-for logs, Grafana - for dashboards and visualization, Tempo - for traces, and Mimir - for metrics.
+
